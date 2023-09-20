@@ -1,4 +1,5 @@
 packages:
+  # 工作空间中包含的目录
   - 'packages/**'
   - 'examples/**'
   - 'common/**'

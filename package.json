@@ -1,20 +1,25 @@
 {
-  "name": "@mono/aaa",
+  "name": "mono-app",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "scripts": {
-    "dev:vue-demo1": "vite packages/vue-demo1",
+    "dev:vue-demo1": "vite packages/demo1",
     "dev:vue-demo2": "vite packages/vue-demo2",
     "dev:vue-xxx": "vite packages/vue-xxx",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lerna": "^7.3.0",
+    "vite": "^4.4.9",
     "vite-plugin-vue-setup-extend": "^0.4.0"
   }
 }
