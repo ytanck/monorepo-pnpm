@@ -1,0 +1,10 @@
+{
+  "name": "@mono/components",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {
+    "@mono/common": "workspace:*"
+  }
+}

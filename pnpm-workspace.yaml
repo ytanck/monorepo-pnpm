@@ -1,0 +1,6 @@
+packages:
+  - 'packages/**'
+  - 'examples/**'
+  - 'common/**'
+  # 不包括在 test 文件夹下的 package
+  - '!**/test/**'

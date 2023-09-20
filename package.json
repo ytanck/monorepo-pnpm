@@ -1,0 +1,20 @@
+{
+  "name": "@mono/aaa",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev:vue-demo1": "vite packages/vue-demo1",
+    "dev:vue-demo2": "vite packages/vue-demo2",
+    "dev:vue-xxx": "vite packages/vue-xxx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^7.3.0",
+    "vite-plugin-vue-setup-extend": "^0.4.0"
+  }
+}
