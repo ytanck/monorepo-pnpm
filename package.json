@@ -10,10 +10,6 @@
     "dev:vue-xxx": "vite packages/vue-xxx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": ">=16",
-    "pnpm": ">=7"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -40,7 +40,7 @@ importers:
     dependencies:
       '@mono/common': link:../../common
 
-  packages/demo:
+  packages/demo1:
     specifiers:
       '@mono/common': workspace:*
       '@mono/components': workspace:*

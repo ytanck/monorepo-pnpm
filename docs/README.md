@@ -1,3 +1,10 @@
+运行
+```
+pnpm install -w
+pnpm run dev:vue-demo1
+```
+
+
 常用monorepo pnpm命令
 
 -w，--workspace-root
